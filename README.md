@@ -8,5 +8,3 @@ Além disso, mantive os cabeçalhos do Project Gutenberg indexados para facilita
 Tendo em vista os problemas acima, eu diminuiria o tamanho de cada chunk e ajustaria a quantidade de overlap proporcionalmente, para que cada embedding represente informações mais específicas e coerentes.
 
 Também removeria o cabeçalho excessivamente longo e extenso para facilitar a saída e interpretação do usuário, pois, mesmo sendo útil para mim saber onde o modelo está buscando o texto, para o usuário final, a informação pode atrapalhar mais do que ajudar.
-
-Essas foram pontos que notei na entrega do trabalho, entretanto, por conta motivos familiares nos quais precisei me ausentar na sexta, mantive o projeto como estava e entreguei logo na madrugada.
